@@ -161,6 +161,6 @@ Temporary Items
 
 # End of https://www.gitignore.io/api/JetBrains+all,macos,PyCharm
 
-inv_index/*.txt
+inv_index/output/*.txt
 inv_index/*.zip
 inv_index/data/
